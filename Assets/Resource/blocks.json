@@ -1,0 +1,11 @@
+{
+    "air": {
+        "block_id": "air",
+        "character": "　",
+        "color": [
+            0,
+            0,
+            0
+        ]
+    }
+}
